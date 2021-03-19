@@ -1,0 +1,66 @@
+#Forecast Report,,,,,,,,,,,,,,,,,,,,,,,
+#Date Period:,01/05/21 - 31/05/21,,,,,,,,,,,,,,,,,,,,,,
+#Site,Time zone,Activity,Day,Interaction Volume,AHT,Calculated Staffing,Required Staffing,Service Level,ASA,Abandoned %,Max. Occupancy,Historical data IV,Historical data AHT,Interaction Volume Totals,AHT Totals,Calculated Staffing ,Required Staffing ,Service Level Totals,ASA Totals,Abandoned % Totals,Max. Occupancy Totals,Historical data IV ,Historical data AHT 
+Tech Mahindra,AET,Inbound Consumer Care,01/05/21,"1,985",651.81,433.75,602.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,02/05/21,"1,448",616.70,312.00,434.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,03/05/21,"3,884",687.51,848.75,"1,179.00",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,04/05/21,"3,782",658.18,798.00,"1,108.50",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,05/05/21,"3,586",619.56,717.25,997.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,06/05/21,"3,690",638.14,756.25,"1,051.50",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,07/05/21,"3,567",638.94,733.00,"1,019.00",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,08/05/21,"1,880",584.86,374.75,522.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,09/05/21,"1,378",553.33,271.75,378.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,10/05/21,"3,883",687.36,848.25,"1,179.00",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,11/05/21,"3,779",657.99,796.75,"1,107.25",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,12/05/21,"3,586",619.42,717.00,995.75,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,13/05/21,"3,689",637.99,756.00,"1,051.50",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,14/05/21,"3,566",638.78,731.75,"1,018.50",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,15/05/21,"1,879",584.75,374.50,521.75,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,16/05/21,"1,377",553.21,271.75,378.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,17/05/21,"3,888",686.05,849.00,"1,180.25",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,18/05/21,"3,784",656.77,797.25,"1,107.25",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,19/05/21,"3,590",618.23,717.25,996.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,20/05/21,"3,693",636.89,757.50,"1,053.00",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,21/05/21,"3,570",637.67,733.00,"1,019.25",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,22/05/21,"1,882",583.61,375.00,522.50,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,23/05/21,"1,380",552.22,272.25,378.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,24/05/21,"3,831",686.62,840.50,"1,166.75",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,25/05/21,"3,732",657.21,788.25,"1,095.75",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,26/05/21,"3,539",618.54,709.25,986.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,27/05/21,"3,637",637.36,749.00,"1,040.25",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,28/05/21,"3,520",638.17,725.00,"1,007.50",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,29/05/21,"1,860",584.07,372.00,518.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,30/05/21,"1,357",552.68,269.00,373.00,,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Consumer Care,31/05/21,"3,771",637.66,766.50,"1,065.50",,,,,,0.00,"93,993",636.98,"19,462.25","27,051.75",,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,01/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,02/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,03/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,04/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,05/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,06/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,07/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,08/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,09/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,10/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,11/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,12/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,13/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,14/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,15/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,16/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,17/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,18/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,19/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,20/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,21/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,22/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,23/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,24/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,25/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,26/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,27/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,28/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,29/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,30/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+Tech Mahindra,AET,Inbound Lost & Stolen,31/05/21,,,,,,,,,,0.00,,,,,,,,,,0.00
+#Workforce Management 8.5.215.09,"11/03/21, 2:53 AM - ",,,,,,,,,,,,,,,,,,,,,,
